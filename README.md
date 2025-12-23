@@ -8,4 +8,4 @@
 
 # How to install it?
 #### 1. You must download the sketch, change some settings like the keyboard layout you want to use and upload it to your board.
-#### 2. Then you must have a txt file in your sd card and it should work with no problems.
+#### 2. Then you must have a txt file with some duckyscript code in your sd card and it'll work with no problems.
